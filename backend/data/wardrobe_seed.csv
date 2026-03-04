@@ -1,0 +1,184 @@
+name,category,subcategory,color,pattern,material,occasion_tags,season_tags,brand,purchased_at
+Navy wool trousers,bottom,pants,navy,solid,wool,business|formal,fall|winter,Banana Republic,2022-04
+Charcoal dress pants,bottom,pants,charcoal,solid,polyester,business|formal,all-season,Everlane,2023-06
+Black tailored trousers,bottom,pants,black,solid,wool,business|formal,all-season,Reformation,2022-06
+Light gray chinos,bottom,pants,gray,solid,cotton,casual|smart-casual,spring|summer,Anthropologie,2024-03
+Beige linen pants,bottom,pants,beige,solid,linen,casual|smart-casual,spring|summer,Vince,2023-06
+Dark wash jeans,bottom,jeans,blue,solid,denim,casual|weekend,all-season,Banana Republic,2022-07
+Light wash jeans,bottom,jeans,light blue,solid,denim,casual|weekend,spring|summer,,2022-03
+White cotton trousers,bottom,pants,white,solid,cotton,smart-casual|summer,spring|summer,,2024-01
+Olive green chinos,bottom,pants,olive,solid,cotton,casual|smart-casual,fall|spring,,2024-11
+Burgundy corduroy pants,bottom,pants,burgundy,corduroy,cotton,casual|fall,fall|winter,H&M,2024-12
+Camel wide-leg trousers,bottom,pants,camel,solid,wool,smart-casual|business,fall|winter,Madewell,2023-10
+Navy joggers,bottom,pants,navy,solid,cotton,casual|weekend,all-season,Vince,2023-10
+Black joggers,bottom,pants,black,solid,cotton,casual|weekend,all-season,Zara,2022-04
+Plaid wool trousers,bottom,pants,gray,plaid,wool,business|smart-casual,fall|winter,J.Crew,2022-11
+Stone colored chinos,bottom,pants,stone,solid,cotton,casual|smart-casual,spring|summer,Gap,2022-09
+Midnight blue dress pants,bottom,pants,midnight blue,solid,wool,business|formal,all-season,Zara,2023-10
+Brown corduroy pants,bottom,pants,brown,corduroy,cotton,casual,fall|winter,Nordstrom,2024-12
+Gray flannel trousers,bottom,pants,gray,solid,wool,business|smart-casual,fall|winter,Nordstrom,2023-10
+White linen pants,bottom,pants,white,solid,linen,casual|smart-casual,spring|summer,Banana Republic,2023-04
+Black skinny jeans,bottom,jeans,black,solid,denim,casual|weekend,all-season,Uniqlo,2022-11
+Navy midi skirt,bottom,skirt,navy,solid,wool,business|formal,fall|winter,& Other Stories,2022-01
+Black pencil skirt,bottom,skirt,black,solid,polyester,business|formal,all-season,AllSaints,2024-04
+Pleated midi skirt,bottom,skirt,gray,pleated,polyester,business|smart-casual,all-season,,2022-06
+Floral midi skirt,bottom,skirt,multi,floral,cotton,casual|spring,spring|summer,,2025-03
+Denim A-line skirt,bottom,skirt,blue,solid,denim,casual|weekend,spring|summer,Zara,2024-01
+Camel wrap skirt,bottom,skirt,camel,solid,wool,smart-casual|business,fall|winter,Gap,2022-05
+White cotton skirt,bottom,skirt,white,solid,cotton,casual|smart-casual,spring|summer,,2022-01
+Black leather skirt,bottom,skirt,black,solid,leather,smart-casual|evening,fall|winter,J.Crew,2023-09
+Burgundy midi skirt,bottom,skirt,burgundy,solid,wool,smart-casual|business,fall|winter,,2024-05
+Plaid mini skirt,bottom,skirt,multi,plaid,wool,casual|fall,fall|winter,AllSaints,2022-07
+White Oxford shirt,top,shirt,white,solid,cotton,business|formal,all-season,Theory,2022-03
+Light blue dress shirt,top,shirt,light blue,solid,cotton,business|formal,all-season,Nordstrom,2022-06
+Pink dress shirt,top,shirt,pink,solid,cotton,business|smart-casual,all-season,Rag & Bone,2022-10
+Striped Breton top,top,shirt,navy,striped,cotton,casual|smart-casual,all-season,Madewell,2022-09
+Black silk blouse,top,blouse,black,solid,silk,business|formal,all-season,J.Crew,2022-02
+White silk blouse,top,blouse,white,solid,silk,business|formal,all-season,,2023-07
+Cream silk blouse,top,blouse,cream,solid,silk,business|smart-casual,all-season,Uniqlo,2024-04
+Chambray shirt,top,shirt,blue,solid,cotton,casual|smart-casual,spring|summer,COS,2025-01
+Denim shirt,top,shirt,blue,solid,denim,casual|weekend,all-season,Theory,2024-07
+White linen shirt,top,shirt,white,solid,linen,casual|smart-casual,spring|summer,J.Crew,2023-05
+Gray t-shirt,top,t-shirt,gray,solid,cotton,casual|weekend,all-season,COS,2024-07
+Black t-shirt,top,t-shirt,black,solid,cotton,casual|weekend,all-season,Zara,2022-03
+White t-shirt,top,t-shirt,white,solid,cotton,casual|weekend,spring|summer,Gap,2023-08
+Navy t-shirt,top,t-shirt,navy,solid,cotton,casual|weekend,all-season,Banana Republic,2023-10
+Striped cotton tee,top,t-shirt,navy,striped,cotton,casual|weekend,spring|summer,& Other Stories,2024-10
+Black turtleneck,top,turtleneck,black,solid,wool,business|smart-casual,fall|winter,Nordstrom,2024-07
+Gray turtleneck,top,turtleneck,gray,solid,wool,business|smart-casual,fall|winter,Reformation,2023-02
+Camel turtleneck,top,turtleneck,camel,solid,wool,smart-casual|casual,fall|winter,Nordstrom,2025-03
+White button-down,top,shirt,white,solid,cotton,business|smart-casual,all-season,Nordstrom,2024-10
+Navy polka dot blouse,top,blouse,navy,polka dot,silk,smart-casual|casual,all-season,Madewell,2025-01
+Burgundy blouse,top,blouse,burgundy,solid,silk,business|smart-casual,fall|winter,,2023-09
+Olive blouse,top,blouse,olive,solid,cotton,casual|smart-casual,spring|fall,Banana Republic,2022-01
+Floral blouse,top,blouse,multi,floral,cotton,casual|spring,spring|summer,J.Crew,2024-02
+Black tank top,top,tank,black,solid,cotton,casual|weekend,spring|summer,Reformation,2024-09
+White tank top,top,tank,white,solid,cotton,casual|weekend,spring|summer,AllSaints,2024-04
+Gray henley,top,henley,gray,solid,cotton,casual|weekend,all-season,,2024-11
+Navy henley,top,henley,navy,solid,cotton,casual|weekend,all-season,,2025-03
+Charcoal crew neck sweater,top,sweater,charcoal,solid,wool,smart-casual|casual,fall|winter,,2024-08
+Camel crew neck sweater,top,sweater,camel,solid,wool,smart-casual|casual,fall|winter,COS,2024-10
+Gray V-neck sweater,top,sweater,gray,solid,wool,smart-casual|casual,fall|winter,,2024-03
+Black cashmere sweater,top,sweater,black,solid,cashmere,business|smart-casual,fall|winter,Reformation,2023-12
+Navy cable knit sweater,top,sweater,navy,cable knit,wool,casual|smart-casual,fall|winter,& Other Stories,2024-09
+Cream knit sweater,top,sweater,cream,solid,wool,smart-casual|casual,fall|winter,,2022-03
+Burgundy merino sweater,top,sweater,burgundy,solid,wool,smart-casual|casual,fall|winter,Gap,2022-12
+Olive green sweater,top,sweater,olive,solid,wool,casual|smart-casual,fall|winter,Banana Republic,2022-06
+Striped Breton sweater,top,sweater,navy,striped,wool,casual|smart-casual,fall|winter,AllSaints,2024-08
+Gray turtleneck sweater,top,sweater,gray,solid,wool,business|smart-casual,fall|winter,COS,2023-05
+Black merino sweater,top,sweater,black,solid,wool,business|smart-casual,fall|winter,Vince,2022-11
+White cotton sweater,top,sweater,white,solid,cotton,casual|spring,spring|summer,Uniqlo,2023-10
+Light gray cardigan,top,cardigan,gray,solid,cotton,smart-casual|casual,spring|fall,COS,2023-10
+Navy cardigan,top,cardigan,navy,solid,wool,smart-casual|casual,fall|winter,,2024-12
+Black cardigan,top,cardigan,black,solid,wool,business|smart-casual,fall|winter,Uniqlo,2024-02
+Camel cardigan,top,cardigan,camel,solid,wool,smart-casual|casual,fall|winter,Vince,2022-05
+Cream cardigan,top,cardigan,cream,solid,cotton,casual|smart-casual,spring|fall,Gap,2024-06
+Burgundy cardigan,top,cardigan,burgundy,solid,wool,casual|smart-casual,fall|winter,Banana Republic,2024-01
+Charcoal cardigan,top,cardigan,charcoal,solid,wool,business|smart-casual,fall|winter,J.Crew,2025-01
+Olive cardigan,top,cardigan,olive,solid,cotton,casual|smart-casual,spring|fall,Madewell,2023-10
+Gray blazer,outerwear,jacket,gray,solid,wool,business|formal,all-season,Rag & Bone,2022-02
+Navy blazer,outerwear,jacket,navy,solid,wool,business|formal,all-season,Vince,2023-01
+Black blazer,outerwear,jacket,black,solid,wool,business|formal,all-season,Madewell,2025-02
+Camel blazer,outerwear,jacket,camel,solid,wool,smart-casual|business,fall|winter,Aritzia,2022-06
+Charcoal suit jacket,outerwear,jacket,charcoal,solid,wool,business|formal,all-season,Gap,2023-12
+Navy suit jacket,outerwear,jacket,navy,solid,wool,business|formal,all-season,& Other Stories,2022-01
+Black leather jacket,outerwear,jacket,black,solid,leather,casual|weekend,fall|winter,H&M,2023-11
+Brown leather jacket,outerwear,jacket,brown,solid,leather,casual|weekend,fall|winter,Banana Republic,2023-03
+Olive bomber jacket,outerwear,jacket,olive,solid,cotton,casual|weekend,spring|fall,H&M,2024-02
+Denim jacket,outerwear,jacket,blue,solid,denim,casual|weekend,spring|fall,COS,2024-11
+Beige trench coat,outerwear,coat,beige,solid,cotton,business|smart-casual,spring|fall,AllSaints,2024-09
+Black trench coat,outerwear,coat,black,solid,cotton,business|formal,fall|spring,AllSaints,2022-04
+Camel wool coat,outerwear,coat,camel,solid,wool,smart-casual|business,fall|winter,Banana Republic,2023-07
+Gray wool coat,outerwear,coat,gray,solid,wool,business|smart-casual,fall|winter,Rag & Bone,2024-08
+Navy peacoat,outerwear,coat,navy,solid,wool,smart-casual|casual,fall|winter,Anthropologie,2023-03
+Black puffer jacket,outerwear,jacket,black,solid,polyester,casual|weekend,winter,Rag & Bone,2024-11
+Gray quilted jacket,outerwear,jacket,gray,solid,polyester,smart-casual|casual,fall|winter,Gap,2024-07
+Navy rain jacket,outerwear,jacket,navy,solid,polyester,casual|weekend,spring|fall,Nordstrom,2022-12
+Black ankle boots,shoes,boots,black,solid,leather,business|smart-casual,fall|winter,COS,2022-10
+Brown ankle boots,shoes,boots,brown,solid,leather,smart-casual|casual,fall|winter,H&M,2024-11
+Tan ankle boots,shoes,boots,tan,solid,leather,casual|smart-casual,fall|spring,Levi's,2024-05
+Black loafers,shoes,loafers,black,solid,leather,business|formal,all-season,Aritzia,2024-01
+Brown loafers,shoes,loafers,brown,solid,leather,business|smart-casual,all-season,J.Crew,2024-06
+Navy loafers,shoes,loafers,navy,solid,leather,smart-casual|casual,all-season,Uniqlo,2022-03
+Black oxfords,shoes,oxfords,black,solid,leather,business|formal,all-season,Zara,2022-01
+Brown oxfords,shoes,oxfords,brown,solid,leather,business|formal,all-season,H&M,2022-09
+White sneakers,shoes,sneakers,white,solid,canvas,casual|weekend,spring|summer,Reformation,2024-06
+Black sneakers,shoes,sneakers,black,solid,leather,casual|weekend,all-season,Anthropologie,2023-01
+Gray sneakers,shoes,sneakers,gray,solid,leather,casual|weekend,all-season,J.Crew,2022-02
+Navy ballet flats,shoes,flats,navy,solid,leather,business|smart-casual,all-season,Gap,2023-05
+Black ballet flats,shoes,flats,black,solid,leather,business|smart-casual,all-season,,2023-11
+Nude pumps,shoes,pumps,nude,solid,leather,business|formal,all-season,,2023-06
+Black pumps,shoes,pumps,black,solid,leather,business|formal,all-season,Gap,2024-04
+Burgundy pumps,shoes,pumps,burgundy,solid,leather,business|smart-casual,all-season,& Other Stories,2024-03
+Brown belt,accessories,belt,brown,solid,leather,business|smart-casual,all-season,Levi's,2022-01
+Black belt,accessories,belt,black,solid,leather,business|formal,all-season,Banana Republic,2022-07
+Navy belt,accessories,belt,navy,solid,leather,smart-casual|casual,all-season,AllSaints,2022-05
+Tan belt,accessories,belt,tan,solid,leather,casual|smart-casual,all-season,,2024-09
+Brown leather belt,accessories,belt,brown,solid,leather,casual|smart-casual,all-season,Everlane,2023-11
+Black leather belt,accessories,belt,black,solid,leather,business|formal,all-season,Zara,2022-06
+Black tote bag,accessories,handbag,black,solid,leather,business|smart-casual,all-season,AllSaints,2022-06
+Brown tote bag,accessories,handbag,brown,solid,leather,business|smart-casual,all-season,Banana Republic,2024-04
+Navy crossbody bag,accessories,handbag,navy,solid,leather,casual|smart-casual,all-season,Vince,2022-01
+Black crossbody bag,accessories,handbag,black,solid,leather,casual|smart-casual,all-season,Zara,2024-11
+Tan satchel,accessories,handbag,tan,solid,leather,business|smart-casual,all-season,Theory,2024-01
+Gray structured handbag,accessories,handbag,gray,solid,leather,business|formal,all-season,Anthropologie,2022-05
+Burgundy handbag,accessories,handbag,burgundy,solid,leather,smart-casual|casual,all-season,Reformation,2024-11
+White leather handbag,accessories,handbag,white,solid,leather,casual|spring,spring|summer,& Other Stories,2024-02
+Black structured tote,accessories,handbag,black,solid,leather,business|formal,all-season,Everlane,2022-02
+Camel shoulder bag,accessories,handbag,camel,solid,leather,smart-casual|casual,fall|winter,Banana Republic,2023-09
+Midi wrap dress,top,dress,black,solid,jersey,business|smart-casual,all-season,Levi's,2023-05
+Floral midi dress,top,dress,multi,floral,cotton,casual|spring,spring|summer,Reformation,2024-07
+Little black dress,top,dress,black,solid,jersey,formal|evening,all-season,,2022-03
+Navy shift dress,top,dress,navy,solid,polyester,business|formal,all-season,Levi's,2024-12
+White linen dress,top,dress,white,solid,linen,casual|smart-casual,spring|summer,Zara,2023-10
+Burgundy wrap dress,top,dress,burgundy,solid,jersey,smart-casual|evening,fall|winter,Theory,2024-03
+Plaid flannel shirt,top,shirt,multi,plaid,flannel,casual|weekend,fall|winter,Levi's,2023-11
+Red silk blouse,top,blouse,red,solid,silk,business|smart-casual,all-season,Madewell,2022-02
+Teal blouse,top,blouse,teal,solid,cotton,smart-casual|casual,spring|summer,H&M,2022-11
+Mustard yellow sweater,top,sweater,mustard,solid,wool,casual|fall,fall|winter,Nordstrom,2024-03
+Heather gray sweater,top,sweater,gray,solid,cotton,casual|weekend,fall|winter,Reformation,2022-05
+Rust colored cardigan,top,cardigan,rust,solid,wool,casual|fall,fall|winter,AllSaints,2022-10
+Pink cardigan,top,cardigan,pink,solid,cotton,casual|spring,spring|summer,,2023-12
+Plaid blazer,outerwear,jacket,multi,plaid,wool,smart-casual|casual,fall|winter,Levi's,2023-04
+Green utility jacket,outerwear,jacket,olive,solid,cotton,casual|weekend,spring|fall,Everlane,2022-06
+Khaki chinos,bottom,pants,khaki,solid,cotton,casual|smart-casual,all-season,Vince,2022-04
+Wine colored trousers,bottom,pants,wine,solid,wool,business|smart-casual,fall|winter,,2024-10
+High-waist black trousers,bottom,pants,black,solid,polyester,business|formal,all-season,Aritzia,2024-01
+Cropped wide-leg pants,bottom,pants,black,solid,wool,smart-casual|casual,fall|winter,Everlane,2024-11
+Cargo pants,bottom,pants,olive,solid,cotton,casual|weekend,all-season,Zara,2023-08
+Printed midi skirt,bottom,skirt,multi,abstract,cotton,casual|summer,spring|summer,Nordstrom,2022-10
+Leather tote,accessories,handbag,brown,solid,leather,business|smart-casual,all-season,Theory,2023-07
+Scarf,accessories,scarf,multi,patterned,silk,casual|smart-casual,fall|winter,COS,2024-01
+Wool scarf,accessories,scarf,gray,solid,wool,casual|winter,fall|winter,,2023-12
+Leather watch strap,accessories,watch,brown,solid,leather,business|smart-casual,all-season,,2022-09
+Sunglasses,accessories,sunglasses,black,solid,plastic,casual|weekend,spring|summer,Uniqlo,2024-11
+Gold hoop earrings,accessories,jewelry,gold,solid,metal,business|smart-casual,all-season,COS,2023-10
+Pearl stud earrings,accessories,jewelry,white,solid,pearl,formal|business,all-season,,2024-10
+Espadrilles,shoes,espadrilles,tan,solid,canvas,casual|summer,spring|summer,Rag & Bone,2022-08
+Slip-on sneakers,shoes,sneakers,white,solid,leather,casual|weekend,all-season,J.Crew,2022-11
+Chelsea boots,shoes,boots,black,solid,leather,smart-casual|casual,fall|winter,J.Crew,2025-02
+Brown Chelsea boots,shoes,boots,brown,solid,leather,casual|smart-casual,fall|winter,Aritzia,2024-01
+Driving loafers,shoes,loafers,brown,solid,leather,casual|smart-casual,spring|summer,J.Crew,2024-04
+Navy blazer with gold buttons,outerwear,jacket,navy,solid,wool,business|formal,all-season,AllSaints,2022-04
+Herringbone blazer,outerwear,jacket,gray,herringbone,wool,business|smart-casual,fall|winter,H&M,2022-09
+Fleece zip-up,outerwear,jacket,gray,solid,polyester,casual|weekend,fall|winter,H&M,2024-06
+V-neck cashmere sweater,top,sweater,charcoal,solid,cashmere,business|smart-casual,fall|winter,,2022-02
+Polo shirt,top,shirt,navy,solid,cotton,casual|smart-casual,spring|summer,Aritzia,2023-11
+White polo,top,shirt,white,solid,cotton,casual|smart-casual,spring|summer,AllSaints,2024-05
+Black polo,top,shirt,black,solid,cotton,casual|smart-casual,all-season,Reformation,2024-05
+Linen blend blazer,outerwear,jacket,beige,solid,linen,smart-casual|casual,spring|summer,Banana Republic,2023-08
+Cropped cardigan,top,cardigan,white,solid,cotton,casual|spring,spring|summer,Levi's,2024-04
+Ribbed knit sweater,top,sweater,black,solid,wool,smart-casual|casual,fall|winter,Anthropologie,2022-02
+Oversized blazer,outerwear,jacket,gray,solid,wool,smart-casual|casual,fall|winter,Madewell,2022-11
+Pleated trousers,bottom,pants,gray,pleated,wool,business|smart-casual,all-season,AllSaints,2024-10
+Wide-leg palazzo pants,bottom,pants,black,solid,crepe,smart-casual|evening,all-season,Madewell,2023-09
+Tailored shorts,bottom,shorts,navy,solid,cotton,casual|summer,spring|summer,,2024-10
+White denim shorts,bottom,shorts,white,solid,denim,casual|summer,spring|summer,,2024-09
+Silk scarf,accessories,scarf,multi,patterned,silk,business|smart-casual,all-season,Theory,2024-12
+Structured clutch,accessories,handbag,black,solid,leather,formal|evening,all-season,Gap,2022-09
+Gold chain necklace,accessories,jewelry,gold,solid,metal,casual|smart-casual,all-season,Nordstrom,2023-10
+Silver bracelet,accessories,jewelry,silver,solid,metal,casual|smart-casual,all-season,& Other Stories,2024-09
+Woven belt,accessories,belt,tan,solid,leather,casual|summer,spring|summer,Levi's,2022-07
+Canvas tote,accessories,handbag,natural,solid,canvas,casual|weekend,spring|summer,,2024-11
+Backpack,accessories,bag,black,solid,nylon,casual|weekend,all-season,& Other Stories,2023-12
+Leather backpack,accessories,bag,brown,solid,leather,business|smart-casual,all-season,Zara,2023-03

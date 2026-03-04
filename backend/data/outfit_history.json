@@ -1,0 +1,1686 @@
+[
+  {
+    "outfit_id": 1,
+    "items": [
+      22,
+      32,
+      73
+    ],
+    "occasion": "What should I wear tomorrow?",
+    "rating": null,
+    "confidence_signal": null,
+    "created_at": null
+  },
+  {
+    "outfit_id": 2,
+    "items": [
+      1,
+      36,
+      79
+    ],
+    "occasion": "What should I wear for a job interview tomorrow?",
+    "rating": null,
+    "confidence_signal": null,
+    "created_at": null
+  },
+  {
+    "outfit_id": 3,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 4,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 5,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 6,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 7,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 8,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 9,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 10,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 11,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 12,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 13,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 14,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 15,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 16,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 17,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 18,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 19,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 20,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 21,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 22,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 23,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 24,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 25,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 26,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 27,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 28,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 29,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 30,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 31,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 32,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 33,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 34,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 35,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 36,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 37,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 38,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 39,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 40,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 41,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 42,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 43,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 44,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 45,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 46,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 47,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 48,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 49,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 50,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 51,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 52,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 53,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 54,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 55,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 56,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 57,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 58,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 59,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 60,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 61,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 62,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 63,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 64,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 65,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 66,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 67,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 68,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 69,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 70,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 71,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 72,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 73,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 74,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 75,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 76,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 77,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 78,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 79,
+    "items": [
+      3,
+      36,
+      79
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 80,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 81,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 82,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 83,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 84,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 85,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 86,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 87,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 88,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 89,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 90,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 91,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 92,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 93,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 94,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 95,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 96,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 97,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 98,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 99,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 100,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 101,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 102,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 103,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 104,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 105,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 106,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 107,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 108,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 109,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 110,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 111,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 112,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 113,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 114,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 115,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 116,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 117,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 118,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 119,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 120,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 121,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 122,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 123,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 124,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 125,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 126,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 127,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 128,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 129,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 130,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 131,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 132,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 133,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 134,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 135,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 136,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 137,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 138,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 139,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 140,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 141,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 142,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 143,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 144,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 145,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 146,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 147,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 148,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 149,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 150,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 151,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 152,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 153,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 154,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 155,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 156,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 157,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 158,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 159,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 160,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 161,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 162,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 163,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 164,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 165,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 166,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 167,
+    "items": [
+      3,
+      36,
+      80
+    ],
+    "occasion": "job interview",
+    "created_at": null
+  },
+  {
+    "outfit_id": 168,
+    "items": [
+      79,
+      36,
+      3
+    ],
+    "occasion": "Job Interview",
+    "created_at": null
+  }
+]

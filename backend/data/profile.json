@@ -1,0 +1,21 @@
+{
+  "name": "Maya",
+  "gender": "female",
+  "age": 35,
+  "body_type": "pear",
+  "location": "San Francisco",
+  "silhouette_preferences": [
+    "tailored",
+    "fitted",
+    "belted"
+  ],
+  "comfort_thresholds": {
+    "prefer_breathable_fabrics": true,
+    "avoid_high_heels": false,
+    "max_formality": 5
+  },
+  "rotation_patterns": {
+    "min_days_between_same_item": 3,
+    "prefer_underworn_items": true
+  }
+}
