@@ -6,6 +6,11 @@ StylePal is a wardrobe intelligence system that helps intentional professionals 
 
 Unlike a standard chatbot, StylePal models behavior over time. It tracks outfit selections, look ratings, and confidence signals to refine silhouette preferences, comfort thresholds, and rotation patterns. When structural gaps limit combination diversity, it may suggest minimal, well-aligned additions, but reuse remains the default. As engagement increases, the system improves personalization, reduces repetition, and evolves alongside the user's professional identity.
 
+ [A brief overview video](https://www.loom.com/share/f0b1f30a19fd4d23938baf8ed3af19ce)
+ 
+ [Cert challenge document](https://docs.google.com/document/d/1QvGANWM3jBsRiRg8TV8eM4XtcExE7LYKEgIh_dPykYE/edit?usp=sharing)
+ 
+
 ## Project Structure
 
 - `frontend/` — Next.js 14+ (App Router) with shadcn/ui
